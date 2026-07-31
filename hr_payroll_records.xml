@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<payroll>
+    <employee>
+        <id>EMP-001</id>
+        <name>Alice Smith</name>
+        <ssn>987-65-4321</ssn>
+        <department>Engineering</department>
+        <salary currency="USD">145000</salary>
+        <bank_details>
+            <iban>CH9300000000000000001</iban>
+            <bic>UBSWCHZH80A</bic>
+        </bank_details>
+        <performance_rating>Outstanding</performance_rating>
+        <confidential_notes>Discuss equity package top-up for 2026. Password for HR portal: AliceSecret!23</confidential_notes>
+    </employee>
+    <employee>
+        <id>EMP-002</id>
+        <name>Bob Jones</name>
+        <ssn>123-45-6789</ssn>
+        <department>Finance</department>
+        <salary currency="USD">110000</salary>
+        <bank_details>
+            <iban>FR7630004000111234567890185</iban>
+            <bic>BNPAFRPP</bic>
+        </bank_details>
+        <performance_rating>Meets Expectations</performance_rating>
+        <confidential_notes>On warning for compliance violation in Q2.</confidential_notes>
+    </employee>
+</payroll>
