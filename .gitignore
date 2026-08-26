@@ -1,17 +1,41 @@
-# Logs & Runtime
-logs
+# Codernic Enterprise Mock Data — Git Ignore Configuration
+
+# Logs & Runtime Artifacts
 *.log
-
-# OS & Temp
-.DS_Store
 *.tmp
-test_results/
+*.pid
+logs/
+.cache/
 
-# Dependencies & Build
+# OS Specific
+.DS_Store
+Thumbs.db
+ehthumbs.db
+
+# Test Outputs & Intermediate Extraction Results
+test_results/
+*_results/
+debug/
+inspection_results/
+06_visual_previews/
+*.ast.json
+*.certificate.json
+*.exchange.json
+
+# Build & Binaries
 node_modules/
 dist/
 build/
-.cache/
+bin/
+*.exe
+*.so
+*.dylib
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Environment Variables & Sensitive Local Overrides
 .env
 .env.*
 !.env.example

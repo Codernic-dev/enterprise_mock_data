@@ -1,46 +1,63 @@
-# Enterprise Mock Data
+# 🏢 Codernic Sovereign Enterprise Mock Dataset (v2.0)
 
-Synthetic enterprise dataset designed for benchmarking, evaluation, and testing of AI agents, RAG (Retrieval-Augmented Generation) systems, enterprise compliance auditing, and search engines.
+[![Standard](https://img.shields.io/badge/Standard-ISO%2FIEC%2017025-blue.svg)](https://www.iso.org/standard/67193.html)
+[![Compliance](https://img.shields.io/badge/Compliance-Swiss%20nLPD%20%26%20GDPR-green.svg)](https://www.fedlex.admin.ch/eli/cc/2022/491/fr)
+[![Integrity](https://img.shields.io/badge/Integrity-ALCOA%2B%20Verified-purple.svg)](#)
 
-## Overview
+A canonical, high-fidelity synthetic benchmark corpus designed to stress-test **Enterprise Security Gateways (SWG)**, **Data Loss Prevention (DLP)** engines, **Format-Preserving Encryption (FPE)**, and **Isometric Document Redaction** across real-world business formats (PDF, DOCX, XLSX, PPTX, XML, CSV).
 
-This repository contains realistic synthetic corporate documents spanning various enterprise domains:
+---
 
-- **CEO & Executive Communications**: High-level emails, strategic directives, and acquisition term sheets.
-- **Engineering & Operations**: Technical documentation, system specs, and operational logs.
-- **Finance & M&A**: M&A term sheets, financial reports, and transactional records.
-- **HR & HR Records**: Employee records, policy documents, and administrative forms.
-- **Legal & Compliance**: Contracts, vendor SLAs, legal settlement documents, and regulatory compliance files.
-- **Medical & Patient Archives**: Synthetic clinical records, patient archives, and medical R&D data.
-- **Research & Logistics**: R&D reports, logistics notes, and supply chain records.
+## 📂 Architecture & Directory Organization
 
-## Structure
+The dataset is organized by enterprise departmental domains and specialized torture test chambers:
 
 ```
-.
-├── CEO_Email_BiotechX_Titan.txt
-├── Engineering/
-├── Finance/
-├── Finance_and_M_A/
-├── HR/
-├── HR_Records/
-├── Legal/
-├── Legal_Case_384_Victim_Settlement.pdf
-├── Legal_Compliance/
-├── Legal_Contracts/
-├── Medical/
-├── Patient_Archives/
-├── Project_Titan_Acquisition_TermSheet_v7_Draft.docx
-└── Research_and_Logistics/
+enterprise_mock_data/
+├── dataset_manifest.json               # Full JSON inventory & schema definition
+├── golden_corpus/                      # Curated baseline across 6 business domains
+│   ├── 01_legal_contracts/             # M&A, NDAs, Share Purchase Agreements
+│   ├── 02_financial_models/            # Excel budgets, payroll spreadsheets, P&L
+│   ├── 03_executive_slides/            # Board presentations, strategy decks (.pptx)
+│   ├── 04_scanned_documents/           # OCR-battered scanned invoices & receipts
+│   ├── 05_corporate_emails/            # Internal CEO/CFO correspondence (.eml, .txt)
+│   └── 06_cloud_devops/                # Terraform state, .env files, API configs
+│
+├── torture_chamber/                    # Stress-testing & adversarial corner-cases
+│   ├── 01_pdf_complex_enterprise/     # Swiss Ultimate Challenge, SEC 10-K filings, CMap traps
+│   ├── 02_docx_enterprise/             # Multi-run Word formatting, track changes
+│   ├── 03_xlsx_enterprise/             # Shared strings table, formulas, pivot tables
+│   ├── 04_pptx_presentations/          # Vector shapes, master slide metadata
+│   └── 05_legacy_office/               # Binary legacy Office documents (.doc, .xls, .ppt)
+│
+├── Executive_Board_and_Strategy/       # Minutes, acquisition roadmaps, board resolutions
+├── Finance_Accounting_and_Tax/         # Swiss VAT (TVA/MWST), ledger exports, tax filings
+├── Human_Resources_and_Payroll/        # Swiss AVS/AHV payroll records, employee salary slips
+├── Legal_Contracts/                    # Commercial SLAs, licensing, vendor terms
+├── Operations_Logistics_and_ISO/       # ISO-27001 audit trails, SOC-2 reports, supply chain
+├── Patient_Archives/                   # Synthetic healthcare & clinical trial records
+└── Sales_CRM_and_Marketing/            # Proposal decks, enterprise CRM pipeline exports
 ```
 
-## Usage
+---
 
-This dataset is ideal for:
-1. Benchmarking enterprise RAG pipelines (e.g., hybrid vector/keyword search, graph-RAG).
-2. Evaluating LLM document understanding across standard formats (`.txt`, `.pdf`, `.docx`).
-3. Testing AI compliance enforcement tools and data governance frameworks.
+## 🛡️ Synthetic PII & Compliance Vectors Covered
 
-## License
+| Category | Formats & Standards | Examples |
+| :--- | :--- | :--- |
+| **Swiss National ID** | Swiss AVS / AHV 13-digit | `756.9217.0769.85`, `756.3314.9812.19` |
+| **Swiss Company UID** | Swiss IDE / UID / TVA | `CHE-109.876.543 TVA`, `CHE-441.209.818 HR` |
+| **Banking & IBAN** | Swiss QR-IBAN, SEPA | `CH93 0076 2011 6238 5295 7`, `CH44 3000...` |
+| **Financial Amounts** | Swiss thousands apostrophe | `CHF 14'850'200.50`, `EUR 4'230'100.00` |
+| **Named Entities** | Multi-lingual ambiguous names | `Pierre Genève`, `Hans Zürich-Meier` |
+| **Healthcare** | HIPAA / Patient Identifiers | MRN, ICD-10 diagnoses, medical consents |
+| **DevOps Secrets** | Synthetic mock tokens | `sk_test_mock_...`, `ghp_...`, `AKIAIOSFODNN7EXAMPLE` |
 
-This dataset is composed entirely of synthetic / mock data generated for testing, evaluation, and demonstration purposes.
+---
+
+## 📜 Licensing & Usage
+
+All documents in this repository are **100% synthetic or derived from public domain regulatory filings (SEC EDGAR, GovDocs)**.  
+No real personal data or proprietary commercial secrets are contained within this repository.
+
+Distributed under the **Apache-2.0 License**. See [LICENSE](LICENSE) for details.

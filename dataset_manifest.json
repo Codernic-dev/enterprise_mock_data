@@ -1,0 +1,1137 @@
+{
+  "version": "2.0.0",
+  "dataset_name": "Codernic Sovereign Enterprise Mock Dataset",
+  "standard_compliance": [
+    "ISO/IEC 17025:2017",
+    "Swiss nLPD / FinfraG",
+    "ALCOA+ Data Integrity"
+  ],
+  "total_categories": 16,
+  "total_files": 1302,
+  "categories": {
+    "Employee_Scratchpads_and_Drafts": {
+      "file_count": 478,
+      "total_bytes": 5288767,
+      "files": [
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_aeby_temp_notes_092.docx",
+          "size_bytes": 36605
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_aguilar_temp_notes_052.docx",
+          "size_bytes": 36588
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_alber_temp_notes_070.txt",
+          "size_bytes": 418
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_alber_temp_notes_092.xlsx",
+          "size_bytes": 5181
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_alber_temp_notes_118.xlsx",
+          "size_bytes": 5167
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_alber_temp_notes_185.csv",
+          "size_bytes": 72
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_alber_temp_notes_305.csv",
+          "size_bytes": 72
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_allen_temp_notes_062.docx",
+          "size_bytes": 36660
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_allen_temp_notes_091.txt",
+          "size_bytes": 279
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_allen_temp_notes_210.csv",
+          "size_bytes": 72
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_allen_temp_notes_325.docx",
+          "size_bytes": 36648
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_arnold_temp_notes_056.xlsx",
+          "size_bytes": 5167
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_arnold_temp_notes_150.docx",
+          "size_bytes": 36651
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_atkinson_temp_notes_036.csv",
+          "size_bytes": 75
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_badel_temp_notes_223.docx",
+          "size_bytes": 36701
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_bahon_temp_notes_187.csv",
+          "size_bytes": 69
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_bahon_temp_notes_297.csv",
+          "size_bytes": 65
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_balmat_temp_notes_069.xlsx",
+          "size_bytes": 5171
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_bavaud_temp_notes_073.xlsx",
+          "size_bytes": 5171
+        },
+        {
+          "path": "Employee_Scratchpads_and_Drafts/draft_bavaud_temp_notes_133.txt",
+          "size_bytes": 320
+        }
+      ]
+    },
+    "Engineering_Research_and_Software": {
+      "file_count": 34,
+      "total_bytes": 40509,
+      "files": [
+        {
+          "path": "Engineering_Research_and_Software/RFC_001_System_Architecture_Spec.md",
+          "size_bytes": 1205
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_002_System_Architecture_Spec.md",
+          "size_bytes": 1226
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_003_System_Architecture_Spec.md",
+          "size_bytes": 1250
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_004_System_Architecture_Spec.md",
+          "size_bytes": 1259
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_005_System_Architecture_Spec.md",
+          "size_bytes": 1139
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_006_System_Architecture_Spec.md",
+          "size_bytes": 1115
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_007_System_Architecture_Spec.md",
+          "size_bytes": 1140
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_008_System_Architecture_Spec.md",
+          "size_bytes": 1174
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_009_System_Architecture_Spec.md",
+          "size_bytes": 1273
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_010_System_Architecture_Spec.md",
+          "size_bytes": 1151
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_011_System_Architecture_Spec.md",
+          "size_bytes": 1161
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_012_System_Architecture_Spec.md",
+          "size_bytes": 1133
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_013_System_Architecture_Spec.md",
+          "size_bytes": 1328
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_014_System_Architecture_Spec.md",
+          "size_bytes": 1175
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_015_System_Architecture_Spec.md",
+          "size_bytes": 1117
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_016_System_Architecture_Spec.md",
+          "size_bytes": 1249
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_017_System_Architecture_Spec.md",
+          "size_bytes": 1121
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_018_System_Architecture_Spec.md",
+          "size_bytes": 1192
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_019_System_Architecture_Spec.md",
+          "size_bytes": 1113
+        },
+        {
+          "path": "Engineering_Research_and_Software/RFC_020_System_Architecture_Spec.md",
+          "size_bytes": 1224
+        }
+      ]
+    },
+    "Executive_Board_and_Strategy": {
+      "file_count": 128,
+      "total_bytes": 2527281,
+      "files": [
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2011_Q1.pdf",
+          "size_bytes": 2587
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2011_Q2.pdf",
+          "size_bytes": 2564
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2011_Q3.pdf",
+          "size_bytes": 2532
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2011_Q4.pdf",
+          "size_bytes": 2574
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2012_Q1.pdf",
+          "size_bytes": 2504
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2012_Q2.pdf",
+          "size_bytes": 2599
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2012_Q3.pdf",
+          "size_bytes": 2585
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2012_Q4.pdf",
+          "size_bytes": 2589
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2013_Q1.pdf",
+          "size_bytes": 2479
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2013_Q2.pdf",
+          "size_bytes": 2615
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2013_Q3.pdf",
+          "size_bytes": 2503
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2013_Q4.pdf",
+          "size_bytes": 2569
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2014_Q1.pdf",
+          "size_bytes": 2547
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2014_Q2.pdf",
+          "size_bytes": 2578
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2014_Q3.pdf",
+          "size_bytes": 2582
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2014_Q4.pdf",
+          "size_bytes": 2543
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2015_Q1.pdf",
+          "size_bytes": 2585
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2015_Q2.pdf",
+          "size_bytes": 2593
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2015_Q3.pdf",
+          "size_bytes": 2475
+        },
+        {
+          "path": "Executive_Board_and_Strategy/Board_Meeting_Minutes_2015_Q4.pdf",
+          "size_bytes": 2548
+        }
+      ]
+    },
+    "Finance_Accounting_and_Tax": {
+      "file_count": 16,
+      "total_bytes": 86181,
+      "files": [
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2011.xlsx",
+          "size_bytes": 5386
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2012.xlsx",
+          "size_bytes": 5399
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2013.xlsx",
+          "size_bytes": 5385
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2014.xlsx",
+          "size_bytes": 5384
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2015.xlsx",
+          "size_bytes": 5381
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2016.xlsx",
+          "size_bytes": 5384
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2017.xlsx",
+          "size_bytes": 5387
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2018.xlsx",
+          "size_bytes": 5390
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2019.xlsx",
+          "size_bytes": 5372
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2020.xlsx",
+          "size_bytes": 5390
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2021.xlsx",
+          "size_bytes": 5391
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2022.xlsx",
+          "size_bytes": 5386
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2023.xlsx",
+          "size_bytes": 5382
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2024.xlsx",
+          "size_bytes": 5388
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2025.xlsx",
+          "size_bytes": 5383
+        },
+        {
+          "path": "Finance_Accounting_and_Tax/Financial_P_and_L_Audit_2026.xlsx",
+          "size_bytes": 5393
+        }
+      ]
+    },
+    "Finance_and_M_A": {
+      "file_count": 6,
+      "total_bytes": 81167,
+      "files": [
+        {
+          "path": "Finance_and_M_A/Project_Titan_Acquisition_TermSheet_v7_Draft.docx",
+          "size_bytes": 36474
+        },
+        {
+          "path": "Finance_and_M_A/transactions_ledger_15ad3844.csv",
+          "size_bytes": 8935
+        },
+        {
+          "path": "Finance_and_M_A/transactions_ledger_7f138482.csv",
+          "size_bytes": 8948
+        },
+        {
+          "path": "Finance_and_M_A/transactions_ledger_be3847b1.csv",
+          "size_bytes": 8945
+        },
+        {
+          "path": "Finance_and_M_A/transactions_ledger_e1a6384c.csv",
+          "size_bytes": 8918
+        },
+        {
+          "path": "Finance_and_M_A/transactions_ledger_ffa3846e.csv",
+          "size_bytes": 8947
+        }
+      ]
+    },
+    "HR_Records": {
+      "file_count": 20,
+      "total_bytes": 15754,
+      "files": [
+        {
+          "path": "HR_Records/Dr_Smith_Performance_Review.txt",
+          "size_bytes": 215
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_0222384d.txt",
+          "size_bytes": 811
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_0f3842fc.txt",
+          "size_bytes": 849
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_1d4a384a.txt",
+          "size_bytes": 845
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_21384768.txt",
+          "size_bytes": 878
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_258e0384.txt",
+          "size_bytes": 851
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_38449cc7.txt",
+          "size_bytes": 827
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_3845270a.txt",
+          "size_bytes": 833
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_38461db9.txt",
+          "size_bytes": 834
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_38463641.txt",
+          "size_bytes": 786
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_384686fa.txt",
+          "size_bytes": 795
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_384926ae.txt",
+          "size_bytes": 818
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_384b5ff3.txt",
+          "size_bytes": 859
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_4205384d.txt",
+          "size_bytes": 811
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_4dc38480.txt",
+          "size_bytes": 841
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_5eed8384.txt",
+          "size_bytes": 856
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_98384c52.txt",
+          "size_bytes": 735
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_9a384457.txt",
+          "size_bytes": 778
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_9e9384e1.txt",
+          "size_bytes": 732
+        },
+        {
+          "path": "HR_Records/Performance_Reviews/review_f6c64384.txt",
+          "size_bytes": 800
+        }
+      ]
+    },
+    "Human_Resources_and_Payroll": {
+      "file_count": 61,
+      "total_bytes": 2260761,
+      "files": [
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0001_Figueroa.docx",
+          "size_bytes": 36896
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0002_Frick.docx",
+          "size_bytes": 36834
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0003_Gillièron.docx",
+          "size_bytes": 36924
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0004_Grosjean.docx",
+          "size_bytes": 36823
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0005_Perez.docx",
+          "size_bytes": 36937
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0006_Hartmann.docx",
+          "size_bytes": 36879
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0007_Jacot-Descombes.docx",
+          "size_bytes": 36827
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0008_Vogel.docx",
+          "size_bytes": 36820
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0009_George.docx",
+          "size_bytes": 36794
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0010_Spence.docx",
+          "size_bytes": 36890
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0011_Wright.docx",
+          "size_bytes": 36892
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0012_Müller.docx",
+          "size_bytes": 36854
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0013_Morard.docx",
+          "size_bytes": 36863
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0014_Henderson.docx",
+          "size_bytes": 36952
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0015_Coigny.docx",
+          "size_bytes": 36807
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0016_Wüthrich.docx",
+          "size_bytes": 36852
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0017_Yu.docx",
+          "size_bytes": 36821
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0018_Cossy.docx",
+          "size_bytes": 36775
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0019_Hartmann.docx",
+          "size_bytes": 36848
+        },
+        {
+          "path": "Human_Resources_and_Payroll/HR_Performance_Review_EMP-0020_Baker.docx",
+          "size_bytes": 36892
+        }
+      ]
+    },
+    "Legal_Compliance": {
+      "file_count": 3,
+      "total_bytes": 6326,
+      "files": [
+        {
+          "path": "Legal_Compliance/GDPR_Compliance_Report_2018_c384.md",
+          "size_bytes": 2136
+        },
+        {
+          "path": "Legal_Compliance/HIPAA_Audit_2024_3843.md",
+          "size_bytes": 2094
+        },
+        {
+          "path": "Legal_Compliance/SOC2_Type2_2021_384e.md",
+          "size_bytes": 2096
+        }
+      ]
+    },
+    "Legal_Contracts": {
+      "file_count": 169,
+      "total_bytes": 221853,
+      "files": [
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Barnett_384c.txt",
+          "size_bytes": 1541
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_188a.txt",
+          "size_bytes": 1601
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_1f6d.txt",
+          "size_bytes": 1582
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_2433.txt",
+          "size_bytes": 1616
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_28ef.txt",
+          "size_bytes": 1513
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_3034.txt",
+          "size_bytes": 1605
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_31db.txt",
+          "size_bytes": 1598
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_467b.txt",
+          "size_bytes": 1646
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_4dfb.txt",
+          "size_bytes": 1612
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_5dad.txt",
+          "size_bytes": 1641
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_5ec1.txt",
+          "size_bytes": 1585
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_6694.txt",
+          "size_bytes": 1519
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_67ae.txt",
+          "size_bytes": 1519
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_6cf8.txt",
+          "size_bytes": 1523
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_8517.txt",
+          "size_bytes": 1625
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_94ae.txt",
+          "size_bytes": 1589
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_9cb1.txt",
+          "size_bytes": 1582
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_ae16.txt",
+          "size_bytes": 1624
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_b5c3.txt",
+          "size_bytes": 1562
+        },
+        {
+          "path": "Legal_Contracts/Doctor_Contract_Dr_Smith_b905.txt",
+          "size_bytes": 1608
+        }
+      ]
+    },
+    "Legal_Contracts_and_Compliance": {
+      "file_count": 44,
+      "total_bytes": 94065,
+      "files": [
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_001_Non_Disclosure_Agreement.pdf",
+          "size_bytes": 2292
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_002_Non_Disclosure_Agreement.pdf",
+          "size_bytes": 2143
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_003_Master_Services_Agreement.pdf",
+          "size_bytes": 2172
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_004_Software_License_Contract.pdf",
+          "size_bytes": 2131
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_005_Non_Disclosure_Agreement.pdf",
+          "size_bytes": 2199
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_006_Master_Services_Agreement.pdf",
+          "size_bytes": 2176
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_007_Non_Disclosure_Agreement.pdf",
+          "size_bytes": 2099
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_008_Master_Services_Agreement.pdf",
+          "size_bytes": 2072
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_009_Software_License_Contract.pdf",
+          "size_bytes": 2158
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_010_Data_Processing_Addendum.pdf",
+          "size_bytes": 2199
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_011_Software_License_Contract.pdf",
+          "size_bytes": 2187
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_012_Data_Processing_Addendum.pdf",
+          "size_bytes": 2152
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_013_Data_Processing_Addendum.pdf",
+          "size_bytes": 2063
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_014_Non_Disclosure_Agreement.pdf",
+          "size_bytes": 2072
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_015_Master_Services_Agreement.pdf",
+          "size_bytes": 2034
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_016_Master_Services_Agreement.pdf",
+          "size_bytes": 2126
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_017_Master_Services_Agreement.pdf",
+          "size_bytes": 2118
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_018_Software_License_Contract.pdf",
+          "size_bytes": 2146
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_019_Software_License_Contract.pdf",
+          "size_bytes": 2094
+        },
+        {
+          "path": "Legal_Contracts_and_Compliance/Legal_Contract_020_Software_License_Contract.pdf",
+          "size_bytes": 2183
+        }
+      ]
+    },
+    "Operations_Logistics_and_ISO": {
+      "file_count": 12,
+      "total_bytes": 422573,
+      "files": [
+        {
+          "path": "Operations_Logistics_and_ISO/DataCenter_Hardware_Inventory_2026.xlsx",
+          "size_bytes": 19202
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2016.docx",
+          "size_bytes": 36667
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2017.docx",
+          "size_bytes": 36654
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2018.docx",
+          "size_bytes": 36709
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2019.docx",
+          "size_bytes": 36626
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2020.docx",
+          "size_bytes": 36709
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2021.docx",
+          "size_bytes": 36634
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2022.docx",
+          "size_bytes": 36710
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2023.docx",
+          "size_bytes": 36654
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2024.docx",
+          "size_bytes": 36693
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2025.docx",
+          "size_bytes": 36662
+        },
+        {
+          "path": "Operations_Logistics_and_ISO/ISO_27001_Information_Security_Audit_2026.docx",
+          "size_bytes": 36653
+        }
+      ]
+    },
+    "Patient_Archives": {
+      "file_count": 15,
+      "total_bytes": 10368,
+      "files": [
+        {
+          "path": "Patient_Archives/patient_consent_form_0384204f.txt",
+          "size_bytes": 664
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_282ad384.txt",
+          "size_bytes": 719
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_2942a384.txt",
+          "size_bytes": 695
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_2c384021.txt",
+          "size_bytes": 713
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_2f0384a7.txt",
+          "size_bytes": 678
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_36384dc0.txt",
+          "size_bytes": 709
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_384072b8.txt",
+          "size_bytes": 680
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_38427056.txt",
+          "size_bytes": 671
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_384bb50e.txt",
+          "size_bytes": 665
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_384e9c49.txt",
+          "size_bytes": 655
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_510384bc.txt",
+          "size_bytes": 677
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_d91384bd.txt",
+          "size_bytes": 697
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_dc2bd384.txt",
+          "size_bytes": 712
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_e638482e.txt",
+          "size_bytes": 716
+        },
+        {
+          "path": "Patient_Archives/patient_consent_form_f384ed9a.txt",
+          "size_bytes": 717
+        }
+      ]
+    },
+    "Research_and_Logistics": {
+      "file_count": 5,
+      "total_bytes": 1499,
+      "files": [
+        {
+          "path": "Research_and_Logistics/Aegis_V_Final_Phase3_Dec_2023.txt",
+          "size_bytes": 193
+        },
+        {
+          "path": "Research_and_Logistics/Aegis_V_Lab_Report_Jan_2023.txt",
+          "size_bytes": 168
+        },
+        {
+          "path": "Research_and_Logistics/shipping_manifest_AX880_975a3848.txt",
+          "size_bytes": 397
+        },
+        {
+          "path": "Research_and_Logistics/shipping_manifest_AX880_cb3849e1.txt",
+          "size_bytes": 368
+        },
+        {
+          "path": "Research_and_Logistics/shipping_manifest_AX880_ef3846b4.txt",
+          "size_bytes": 373
+        }
+      ]
+    },
+    "Sales_CRM_and_Marketing": {
+      "file_count": 105,
+      "total_bytes": 238615,
+      "files": [
+        {
+          "path": "Sales_CRM_and_Marketing/CRM_Enterprise_Pipeline_Export_2015_2026.xlsx",
+          "size_bytes": 27632
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_001_Bühlmann_AG.pdf",
+          "size_bytes": 2062
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_002_Geiger_GmbH.pdf",
+          "size_bytes": 2028
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_003_Jones_LLC.pdf",
+          "size_bytes": 2029
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_004_Fankhauser_Benz_GmbH.pdf",
+          "size_bytes": 2053
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_005_Niquille.pdf",
+          "size_bytes": 2037
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_006_Besençon.pdf",
+          "size_bytes": 2084
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_007_Blaser_GmbH.pdf",
+          "size_bytes": 2053
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_008_Kaiser_&_Söhne.pdf",
+          "size_bytes": 2011
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_009_Bourquin.pdf",
+          "size_bytes": 2051
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_010_Grant-Mejia.pdf",
+          "size_bytes": 2029
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_011_Monnard.pdf",
+          "size_bytes": 2008
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_012_Miller-Fletcher.pdf",
+          "size_bytes": 2053
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_013_Mäder_AG.pdf",
+          "size_bytes": 1938
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_014_Comman_SA.pdf",
+          "size_bytes": 1996
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_015_Thomas-Skinner.pdf",
+          "size_bytes": 2043
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_016_Georges.pdf",
+          "size_bytes": 1979
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_017_Soto-Woods.pdf",
+          "size_bytes": 2009
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_018_Furrer_AG.pdf",
+          "size_bytes": 2108
+        },
+        {
+          "path": "Sales_CRM_and_Marketing/Proposal_019_Martin.pdf",
+          "size_bytes": 2058
+        }
+      ]
+    },
+    "golden_corpus": {
+      "file_count": 132,
+      "total_bytes": 103557284,
+      "files": [
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate_Agreement.pdf",
+          "size_bytes": 133922
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate_Agreement.pdf",
+          "size_bytes": 134300
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate_Agreement.pdf",
+          "size_bytes": 217908
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate_Agreement.pdf",
+          "size_bytes": 88121
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate_Agreement.pdf",
+          "size_bytes": 88345
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate_Agreement.pdf",
+          "size_bytes": 81269
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_TubeMediaCorp_20060310_8-K_EX-10.1_513921_EX-10.1_Affiliate_Agreement.pdf",
+          "size_bytes": 275856
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_UnionDentalHoldingsInc_20050204_8-KA_EX-10_3345577_EX-10_Affiliate_Agreement.pdf",
+          "size_bytes": 80849
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Affiliate_Agreements_UsioInc_20040428_SB-2_EX-10.11_1723988_EX-10.11_Affiliate_Agreement_2.pdf",
+          "size_bytes": 107292
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding_Agreement__Agency_Agreement.pdf",
+          "size_bytes": 109658
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding_Agreement__Service_Agreement.pdf",
+          "size_bytes": 126438
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_EbixInc_20010515_10-Q_EX-10.3_4049767_EX-10.3_Co-Branding_Agreement.pdf",
+          "size_bytes": 112650
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_EdietsComInc_20001030_10QSB_EX-10.4_2606646_EX-10.4_Co-Branding_Agreement.pdf",
+          "size_bytes": 141144
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_EmbarkComInc_19991008_S-1A_EX-10.10_6487661_EX-10.10_Co-Branding_Agreement.pdf",
+          "size_bytes": 115953
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_HealthcentralCom_19991108_S-1A_EX-10.27_6623292_EX-10.27_Co-Branding_Agreement.pdf",
+          "size_bytes": 83939
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_ImpresseCorp_20000322_S-1A_EX-10.11_5199234_EX-10.11_Co-Branding_Agreement.pdf",
+          "size_bytes": 140076
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_IntegrityMediaInc_20010329_10-K405_EX-10.17_2373875_EX-10.17_Co-Branding_Agreement.pdf",
+          "size_bytes": 62746
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_InvendaCorp_20000828_S-1A_EX-10.2_2588206_EX-10.2_Co-Branding_Agreement.pdf",
+          "size_bytes": 193002
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_LeadersonlineInc_20000427_S-1A_EX-10.8_4991089_EX-10.8_Co-Branding_Agreement.pdf",
+          "size_bytes": 138074
+        },
+        {
+          "path": "golden_corpus/01_legal_contracts/Contract_Co_Branding_MphaseTechnologiesInc_20030911_10-K_EX-10.15_1560667_EX-10.15_Co-Branding_Agreement.pdf",
+          "size_bytes": 47002
+        }
+      ]
+    },
+    "torture_chamber": {
+      "file_count": 74,
+      "total_bytes": 110649766,
+      "files": [
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Affiliate_Agreements_CreditcardscomInc_20070810_S-1_EX-10.33_362297_EX-10.33_Affiliate_Agreement.pdf",
+          "size_bytes": 133922
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Affiliate_Agreements_CybergyHoldingsInc_20140520_10-Q_EX-10.27_8605784_EX-10.27_Affiliate_Agreement.pdf",
+          "size_bytes": 134300
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Affiliate_Agreements_DigitalCinemaDestinationsCorp_20111220_S-1_EX-10.10_7346719_EX-10.10_Affiliate_Agreement.pdf",
+          "size_bytes": 217908
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Affiliate_Agreements_LinkPlusCorp_20050802_8-K_EX-10_3240252_EX-10_Affiliate_Agreement.pdf",
+          "size_bytes": 88121
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Affiliate_Agreements_SouthernStarEnergyInc_20051202_SB-2A_EX-9_801890_EX-9_Affiliate_Agreement.pdf",
+          "size_bytes": 88345
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Affiliate_Agreements_SteelVaultCorp_20081224_10-K_EX-10.16_3074935_EX-10.16_Affiliate_Agreement.pdf",
+          "size_bytes": 81269
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Co_Branding_2ThemartComInc_19990826_10-12G_EX-10.10_6700288_EX-10.10_Co-Branding_Agreement__Agency_Agreement.pdf",
+          "size_bytes": 109658
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Co_Branding_DeltathreeInc_19991102_S-1A_EX-10.19_6227850_EX-10.19_Co-Branding_Agreement__Service_Agreement.pdf",
+          "size_bytes": 126438
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Development_AimmuneTherapeuticsInc_20200205_8-K_EX-10.3_11967170_EX-10.3_Development_Agreement.pdf",
+          "size_bytes": 418283
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Development_ArcaUsTreasuryFund_20200207_N-2_EX-99.K5_11971930_EX-99.K5_Development_Agreement.pdf",
+          "size_bytes": 171798
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Hosting_Freecook_20180605_S-1_EX-10.3_11233807_EX-10.3_Hosting_Agreement.pdf",
+          "size_bytes": 133030
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Hosting_PareteumCorp_20081001_8-K_EX-99.1_2654808_EX-99.1_Hosting_Agreement.pdf",
+          "size_bytes": 278128
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_IP_ArmstrongFlooringInc_20190107_8-K_EX-10.2_11471795_EX-10.2_Intellectual_Property_Agreement.pdf",
+          "size_bytes": 616962
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_IP_CerenceInc_20191002_8-K_EX-10.4_11827494_EX-10.4_Intellectual_Property_Agreement.pdf",
+          "size_bytes": 193486
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_License_Agreements_AlliedEsportsEntertainmentInc_20190815_8-K_EX-10.19_11788293_EX-10.19_Content_License_Agreement.pdf",
+          "size_bytes": 176502
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_License_Agreements_ArconicRolledProductsCorp_20191217_10-12B_EX-2.7_11923804_EX-2.7_Trademark_License_Agreement.pdf",
+          "size_bytes": 152678
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Outsourcing_FerroglobePlc_20150624_F-4A_EX-10.20_9154746_EX-10.20_Outsourcing_Agreement.pdf",
+          "size_bytes": 230276
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Contract_Outsourcing_ImperialGardenResortInc_20161028_DRS_(on_F-1)_EX-10.13_9963189_EX-10.13_Outsourcing_Agreement.pdf",
+          "size_bytes": 127411
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/SWISS_SOVEREIGN_ULTIMATE_TORTURE_CHALLENGE_2026.pdf",
+          "size_bytes": 7876
+        },
+        {
+          "path": "torture_chamber/01_pdf_complex_enterprise/Scientific_Attention_Is_All_You_Need_Transformer.pdf",
+          "size_bytes": 2215244
+        }
+      ]
+    }
+  }
+}

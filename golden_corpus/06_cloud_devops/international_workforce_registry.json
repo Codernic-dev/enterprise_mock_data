@@ -1,0 +1,40 @@
+{
+  "company": "Global Aerospace Solutions Ltd",
+  "audit_year": 2026,
+  "employees": [
+    {
+      "name": "Heinrich SCHMIDT",
+      "country": "Germany",
+      "tax_id_steuer_id": "12345678901",
+      "iban": "DE89370400440532013000",
+      "role": "Chief Aerospace Engineer"
+    },
+    {
+      "name": "Carlos MENDOZA",
+      "country": "Spain",
+      "dni": "12345678Z",
+      "iban": "ES9121000418450200051332",
+      "role": "Avionics Specialist"
+    },
+    {
+      "name": "Giuseppe ROSSI",
+      "country": "Italy",
+      "codice_fiscale": "RSSGPP80A01H501U",
+      "iban": "IT60X0542811101000000123456",
+      "role": "Quality Assurance Director"
+    },
+    {
+      "name": "Rajesh SHARMA",
+      "country": "India",
+      "aadhaar": "2345 6789 0123",
+      "pan": "ABCDE1234F",
+      "role": "Software Architect"
+    },
+    {
+      "name": "Lucas SILVA",
+      "country": "Brazil",
+      "cpf": "123.456.789-01",
+      "role": "Structural Analyst"
+    }
+  ]
+}
